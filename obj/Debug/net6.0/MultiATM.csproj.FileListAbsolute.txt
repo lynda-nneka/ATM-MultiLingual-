@@ -1,0 +1,15 @@
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/bin/Debug/net6.0/MultiATM
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/bin/Debug/net6.0/MultiATM.deps.json
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/bin/Debug/net6.0/MultiATM.runtimeconfig.json
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/bin/Debug/net6.0/MultiATM.dll
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/bin/Debug/net6.0/MultiATM.pdb
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/MultiATM.csproj.AssemblyReference.cache
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/MultiATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/MultiATM.AssemblyInfoInputs.cache
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/MultiATM.AssemblyInfo.cs
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/MultiATM.csproj.CoreCompileInputs.cache
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/MultiATM.dll
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/refint/MultiATM.dll
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/MultiATM.pdb
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/MultiATM.genruntimeconfig.cache
+/Users/user/Downloads/wetransfer_multiatm-refactored-zip_2022-11-27_2100/MultiATM/MultiATM/obj/Debug/net6.0/ref/MultiATM.dll
